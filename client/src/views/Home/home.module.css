@@ -1,0 +1,19 @@
+
+body{
+    background: -webkit-linear-gradient(to right, #6FB1FC, #4364F7, #0052D4);
+  
+    background: linear-gradient(to right, #6FB1FC, #4364F7, #0052D4);
+  }
+  
+  .containerHome {
+    background: -webkit-linear-gradient(to right, #6FB1FC, #4364F7, #0052D4);
+  
+    background: linear-gradient(to right, #6FB1FC, #4364F7, #0052D4);
+  
+  
+  
+  
+    text-decoration: none;
+    object-fit: cover;
+    background-attachment: fixed;
+  }
