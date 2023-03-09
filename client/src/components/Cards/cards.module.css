@@ -1,0 +1,19 @@
+.allCards{
+    display: flex;
+    gap: 30px;
+    margin: 130px;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-decoration:none;
+   
+    
+ }
+
+.pagi{
+    width: 170%;
+  
+}
+
+.puedoCar{
+    display: block;
+}
